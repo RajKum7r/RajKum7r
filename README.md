@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj kumar</h1>
-<h3 align="center">A passionate java developer.</h3>
+<h3 align="center">A passionate python / java developer.</h3>
 
-- 👯 I’m looking to collaborate on **java based developer**
+- 👯 I’m looking to collaborate on **java,python based developer**
 
-- 💬 Ask me about **Java,C++, C , MYSQL**
+- 💬 Ask me about **Java,C++, C , python, MYSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
